@@ -1,3 +1,5 @@
+#18.	Calculate area & perimeter of a rectangle. A = L*B, P = 2 (L+B)
+
 a=float(input("enter length"))
 b=float(input("enter breath"))
 c=a*b
